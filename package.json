@@ -1,0 +1,38 @@
+{
+  "name": "film-apisi",
+  "version": "1.0.0",
+  "description": "İmdb'den aratma yapmanızı sağlar,trendleri gösterir,rastgele veya adı ile film/dizi/anime sözü söyler,rastgele film/dizi önerir",
+  "main": "function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Furtsy/film-apisi.git"
+  },
+  "keywords": [
+    "dizi",
+    "film",
+    "sinema",
+    "imdb",
+    "imdb-scraper",
+    "movies",
+    "trending",
+    "tv show",
+    "series",
+    "movie-quotes",
+    "cinema",
+    "film api",
+    "dizi api",
+    "rastgele söz"
+  ],
+  "author": "Furtsy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Furtsy/film-apisi/issues"
+  },
+  "homepage": "https://github.com/Furtsy/film-apisi#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
